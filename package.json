@@ -15,13 +15,13 @@
   },
   "dependencies": {
     "atom-linter": "^10.0.0",
-    "atom-package-deps": "^5.1.0",
-    "electron-json-storage": "^4.1.8",
+    "atom-package-deps": "^6.0.0",
+    "electron-json-storage": "^4.2.0",
     "escape-string-regexp": "*",
-    "semver": "^7.1.2"
+    "semver": "^7.3.2"
   },
   "devDependencies": {
-    "eslint": "^6.8.0"
+    "eslint": "^7.5.0"
   },
   "activationHooks": [
     "language-json:grammar-used"
