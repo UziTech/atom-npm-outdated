@@ -21,7 +21,7 @@
     "semver": "^7.3.2"
   },
   "devDependencies": {
-    "eslint": "^7.5.0"
+    "eslint": "^7.6.0"
   },
   "activationHooks": [
     "language-json:grammar-used"
